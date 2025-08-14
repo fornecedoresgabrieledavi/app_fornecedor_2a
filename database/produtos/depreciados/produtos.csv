@@ -1,4 +1,5 @@
 Categoria,Nome do Produto,Descrição,Estoque Disponível,Preço Unitário (R$),Preço em USD ($),Imposto de Importação (%),ICMS (%),IPI (%),PIS (%),COFINS (%),Total de Impostos (%),Preço Final c/ Impostos (R$)
+Eletrônicos,Smartphone Samsung Galaxy S23 128GB,Smartphone com câmera tripla de 50MP, tela AMOLED 6.1'' e processador Snapdragon 8 Gen 2.,45,3999.90,769.21,20%,"18,00%","5,00%","1,65%","7,60%",52.25,6088.14
 Processador,Processador Intel Core i3 Gamer,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,21.0,2631.26,515.93,12%,"18,00%","4,00%","1,65%","7,60%",43.25,3769.28
 Processador,Processador Intel Core i3 Lite,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,100.0,291.14,57.09,12%,"18,00%","4,00%","1,65%","7,60%",43.25,417.06
 Processador,Processador Intel Core i3 Edition,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,56.0,3376.87,662.13,12%,"18,00%","4,00%","1,65%","7,60%",43.25,4837.37
